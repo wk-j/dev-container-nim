@@ -1,0 +1,5 @@
+## Nim
+
+```bash
+nim --version
+```

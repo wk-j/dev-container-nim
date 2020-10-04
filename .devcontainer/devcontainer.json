@@ -1,0 +1,17 @@
+{
+    "name": "Ubuntu",
+    "build": {
+        "dockerfile": "nim.Dockerfile",
+        "args": {
+            "VARIANT": "3.12"
+        }
+    },
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [],
+    "forwardPorts": [],
+    "postCreateCommand": "",
+    "runArgs": [],
+    "remoteUser": "root"
+}
