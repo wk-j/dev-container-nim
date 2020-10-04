@@ -9,7 +9,9 @@
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     },
-    "extensions": [],
+    "extensions": [
+        "kosz78.nim"
+    ],
     "forwardPorts": [],
     "postCreateCommand": "",
     "runArgs": [],
